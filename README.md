@@ -2,6 +2,7 @@
 
 This is my team's graduation portfolio.
 This app is Based on Google CloudVision API Example.
+(I REMOVED API KEY on build.gradle. so to use this app, you must have your own API-Key.)
 
 List of APIs used in this app:
  Google CloudVision API (Text Detection)
