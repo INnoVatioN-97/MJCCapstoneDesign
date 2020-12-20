@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_background_darkgray"
+    android:orientation="vertical"
+
+    tools:context=".DialogChoosefolder">
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/dialog_background_darkgray"
+        android:padding="10dp"
+        android:text="경로로 지정할 폴더를 선택해주세요"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+
+        />
+
+    <GridView
+        android:id="@+id/folderView"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:stretchMode="columnWidth"
+        android:paddingLeft="20dp">
+
+    </GridView>
+
+</LinearLayout>

@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:grantUriPermissions
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:37:13-47
+	android:authorities
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:35:13-60
+	android:exported
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:34:13-67
+manifest
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\8a49caab1db1d5daec2558434e517729\design-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\cfbc78985527129d85b7eece84d3e351\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\5a852978b651b1a0947a6a75ff381735\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\2fde39aab524a9e306e361236cbd3d23\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\d307014f9453414b3974f12757bccdc0\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\0fc4bf5360a9b301776ad5762d4da3f0\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\26ec5c0c225bae894f40f2c0bd2802cf\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\c5d6b673faa9e396e9badbbaf9951f17\recyclerview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e41f85f3f4749aa862e5eeb23f1722df\transition-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\0b6dd8c860ba5fc9885a473191a96e8f\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\d01dbd1fa62daabf29bcd07d8829fd16\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\f86ec469d795472fc46c8ead4b3256a7\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e9ddca0cc4ce4b34a23c72d38484246f\glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\b86b41220db59f6c596245c4fe2b6212\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\fda86bb9d2301a0c6a913be9ead831d9\gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\4ee9deb39d4f6ae71451454076275831\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:10:5-42:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e9ddca0cc4ce4b34a23c72d38484246f\glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e9ddca0cc4ce4b34a23c72d38484246f\glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\b86b41220db59f6c596245c4fe2b6212\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\b86b41220db59f6c596245c4fe2b6212\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\fda86bb9d2301a0c6a913be9ead831d9\gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\fda86bb9d2301a0c6a913be9ead831d9\gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:14:9-49
+	android:icon
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:12:9-44
+	android:allowBackup
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.ocr_api_test.Pictures
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:17:9-46
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:17:19-43
+activity#com.example.ocr_api_test.Intro
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:theme
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:19:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.ocr_api_test.MainActivity
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.example.ocr_api_test.camera.CameraActivity
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:28:9-59
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:28:19-56
+activity#com.example.ocr_api_test.TutorialActivity
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:30:9-53
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:30:19-51
+activity#com.example.ocr_api_test.ShowInventors
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:31:9-50
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:31:19-48
+uses-sdk
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\8a49caab1db1d5daec2558434e517729\design-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\8a49caab1db1d5daec2558434e517729\design-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\cfbc78985527129d85b7eece84d3e351\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\cfbc78985527129d85b7eece84d3e351\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\5a852978b651b1a0947a6a75ff381735\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\5a852978b651b1a0947a6a75ff381735\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\2fde39aab524a9e306e361236cbd3d23\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\2fde39aab524a9e306e361236cbd3d23\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\d307014f9453414b3974f12757bccdc0\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\d307014f9453414b3974f12757bccdc0\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\0fc4bf5360a9b301776ad5762d4da3f0\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\0fc4bf5360a9b301776ad5762d4da3f0\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\26ec5c0c225bae894f40f2c0bd2802cf\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\26ec5c0c225bae894f40f2c0bd2802cf\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\c5d6b673faa9e396e9badbbaf9951f17\recyclerview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\c5d6b673faa9e396e9badbbaf9951f17\recyclerview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e41f85f3f4749aa862e5eeb23f1722df\transition-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e41f85f3f4749aa862e5eeb23f1722df\transition-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\0b6dd8c860ba5fc9885a473191a96e8f\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\0b6dd8c860ba5fc9885a473191a96e8f\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\d01dbd1fa62daabf29bcd07d8829fd16\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\d01dbd1fa62daabf29bcd07d8829fd16\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\f86ec469d795472fc46c8ead4b3256a7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\f86ec469d795472fc46c8ead4b3256a7\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e9ddca0cc4ce4b34a23c72d38484246f\glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\e9ddca0cc4ce4b34a23c72d38484246f\glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\b86b41220db59f6c596245c4fe2b6212\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\b86b41220db59f6c596245c4fe2b6212\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\fda86bb9d2301a0c6a913be9ead831d9\gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\fda86bb9d2301a0c6a913be9ead831d9\gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\4ee9deb39d4f6ae71451454076275831\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\koyou\.gradle\caches\transforms-2\files-2.1\4ee9deb39d4f6ae71451454076275831\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+		INJECTED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:38:13-40:58
+	android:resource
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:40:17-55
+	android:name
+		ADDED from E:\OCR_API_TEST\OCR_AUTOSAVE_CAMERA\app\src\main\AndroidManifest.xml:39:17-67

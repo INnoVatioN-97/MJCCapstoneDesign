@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/FrameContainer"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.example.ocr_api_test.GridViewItem
+        android:id="@+id/item_image_check"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/item_indicator_check"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_marginStart="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:padding="4dp"
+        android:src="@drawable/folder"
+        android:visibility="gone"/>
+
+    <CheckBox
+        android:id="@+id/item_image_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:buttonTint="#FFFFFF"
+        android:checked="false"
+        android:clickable="true"
+        android:focusable="true"
+        android:forceHasOverlappingRendering="false"
+        android:gravity="top|left"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</RelativeLayout>

@@ -1,0 +1,86 @@
+com/example/ocr_api_test/fragments/Fragment_DeleteFolder.java
+ com.example.ocr_api_test.fragments.Fragment_DeleteFolder
+ com.example.ocr_api_test.fragments.Fragment_DeleteFolder$1
+com/example/ocr_api_test/ShowKeywords.java
+ com.example.ocr_api_test.ShowKeywords
+ com.example.ocr_api_test.ShowKeywords$1
+ com.example.ocr_api_test.ShowKeywords$2
+ com.example.ocr_api_test.ShowKeywords$3
+com/example/ocr_api_test/Pictures.java
+ com.example.ocr_api_test.Pictures
+ com.example.ocr_api_test.Pictures$1
+ com.example.ocr_api_test.Pictures$2
+ com.example.ocr_api_test.Pictures$DeletePictureAdapter
+ com.example.ocr_api_test.Pictures$DeletePictureAdapter$1
+ com.example.ocr_api_test.Pictures$MediaFileAdapter
+com/example/ocr_api_test/camera/ZoomLayout.java
+ com.example.ocr_api_test.camera.ZoomLayout
+ com.example.ocr_api_test.camera.ZoomLayout$1
+ com.example.ocr_api_test.camera.ZoomLayout$Mode
+com/example/ocr_api_test/folder/FolderImageAdapter.java
+ com.example.ocr_api_test.folder.FolderImageAdapter
+ com.example.ocr_api_test.folder.FolderImageAdapter$1
+com/example/ocr_api_test/DialogChoosefolder.java
+ com.example.ocr_api_test.DialogChoosefolder
+ com.example.ocr_api_test.DialogChoosefolder$1
+com/example/ocr_api_test/PackageManagerUtils.java
+ com.example.ocr_api_test.PackageManagerUtils
+com/example/ocr_api_test/PermissionUtils.java
+ com.example.ocr_api_test.PermissionUtils
+com/example/ocr_api_test/ShowInventors.java
+ com.example.ocr_api_test.ShowInventors
+ com.example.ocr_api_test.ShowInventors$1
+com/example/ocr_api_test/MediaScanner.java
+ com.example.ocr_api_test.MediaScanner
+ com.example.ocr_api_test.MediaScanner$1
+com/example/ocr_api_test/fragments/Fragment_Standard.java
+ com.example.ocr_api_test.fragments.Fragment_Standard
+ com.example.ocr_api_test.fragments.Fragment_Standard$1
+ com.example.ocr_api_test.fragments.Fragment_Standard$2
+ com.example.ocr_api_test.fragments.Fragment_Standard$2$1
+com/example/ocr_api_test/OCR.java
+ com.example.ocr_api_test.OCR
+ com.example.ocr_api_test.OCR$1
+ com.example.ocr_api_test.OCR$2
+ com.example.ocr_api_test.OCR$2$1
+com/example/ocr_api_test/BuildConfig.java
+ com.example.ocr_api_test.BuildConfig
+com/example/ocr_api_test/MainActivity.java
+ com.example.ocr_api_test.MainActivity
+ com.example.ocr_api_test.MainActivity$1
+ com.example.ocr_api_test.MainActivity$2
+com/example/ocr_api_test/StringManager.java
+ com.example.ocr_api_test.StringManager
+com/example/ocr_api_test/db/DBHelper.java
+ com.example.ocr_api_test.db.DBHelper
+com/example/ocr_api_test/Intro.java
+ com.example.ocr_api_test.Intro
+ com.example.ocr_api_test.Intro$1
+com/example/ocr_api_test/folder/FolderList.java
+ com.example.ocr_api_test.folder.FolderList
+com/example/ocr_api_test/GridViewItem.java
+ com.example.ocr_api_test.GridViewItem
+com/example/ocr_api_test/TutorialActivity.java
+ com.example.ocr_api_test.TutorialActivity
+ com.example.ocr_api_test.TutorialActivity$1
+ com.example.ocr_api_test.TutorialActivity$2
+ com.example.ocr_api_test.TutorialActivity$3
+ com.example.ocr_api_test.TutorialActivity$PagerAdapter
+com/example/ocr_api_test/camera/CameraActivity.java
+ com.example.ocr_api_test.camera.CameraActivity
+ com.example.ocr_api_test.camera.CameraActivity$1
+ com.example.ocr_api_test.camera.CameraActivity$2
+ com.example.ocr_api_test.camera.CameraActivity$ValueHandler
+com/example/ocr_api_test/camera/Preview.java
+ com.example.ocr_api_test.camera.Preview
+ com.example.ocr_api_test.camera.Preview$1
+ com.example.ocr_api_test.camera.Preview$10
+ com.example.ocr_api_test.camera.Preview$11
+ com.example.ocr_api_test.camera.Preview$2
+ com.example.ocr_api_test.camera.Preview$3
+ com.example.ocr_api_test.camera.Preview$4
+ com.example.ocr_api_test.camera.Preview$5
+ com.example.ocr_api_test.camera.Preview$6
+ com.example.ocr_api_test.camera.Preview$7
+ com.example.ocr_api_test.camera.Preview$8
+ com.example.ocr_api_test.camera.Preview$9

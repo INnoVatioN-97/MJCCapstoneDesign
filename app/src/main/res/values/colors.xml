@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#646464</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorText">#BFBFBF</color>
+
+    <!-- 배경색-->
+    <color name="bg_screen1">#FFAD03</color>
+    <color name="bg_screen2">#FFAD03</color>
+    <color name="bg_screen3">#FFAD03</color>
+    <color name="bg_screen4">#FFAD03</color>
+    <color name="bg_screen5">#FFAD03</color>
+
+    <!-- 선택되지 않은 점(선택 되지 않은 페이지 점) -->
+    <color name="dot_dark_screen1">#A5662D</color>
+    <color name="dot_dark_screen2">#A5662D</color>
+    <color name="dot_dark_screen3">#A5662D</color>
+    <color name="dot_dark_screen4">#A5662D</color>
+    <color name="dot_dark_screen5">#A5662D</color>
+
+    <!-- 선택된 점(해당 페이지 일 때) -->
+    <color name="dot_light_screen1">#FFCE70</color>
+    <color name="dot_light_screen2">#FFCE70</color>
+    <color name="dot_light_screen3">#FFCE70</color>
+    <color name="dot_light_screen4">#FFCE70</color>
+    <color name="dot_light_screen5">#FFCE70</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+    </array>
+
+</resources>

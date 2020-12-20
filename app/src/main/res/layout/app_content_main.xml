@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#646464"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="23"
+        android:background="@drawable/shadow">
+
+        <ImageView
+            android:id="@+id/information"
+            android:layout_width="55dp"
+            android:layout_height="41dp"
+            android:layout_marginStart="15dp"
+            android:onClick="information"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@android:drawable/ic_menu_info_details" />
+
+        <Switch
+            android:id="@+id/toggleOCR"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:switchMinWidth="25dp"
+            android:text="OCR "
+
+            android:thumb="@drawable/switch_thumb"
+            android:track="@drawable/switch_track_selector"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btnAddFolder"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/btnAddFolder"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/btnDeleteFolder"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/add_folder" />
+
+        <ImageView
+            android:id="@+id/btnDeleteFolder"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.555"
+            app:srcCompat="@android:drawable/ic_menu_delete" />
+
+    </android.support.constraint.ConstraintLayout>
+
+    <FrameLayout
+        android:id="@+id/gridView_container"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="8">
+
+    </FrameLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="19">
+
+        <ImageView
+            android:id="@+id/ivCamera"
+            android:layout_width="111dp"
+            android:layout_height="111dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.75"
+            app:srcCompat="@drawable/camera_practice" />
+
+        <ImageView
+            android:id="@+id/ivUseOcr"
+            android:layout_width="84dp"
+            android:layout_height="92dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.671"
+            app:srcCompat="@drawable/folder2_bottom" />
+    </android.support.constraint.ConstraintLayout>
+
+
+</LinearLayout>
